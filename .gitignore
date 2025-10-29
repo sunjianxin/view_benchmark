@@ -1,0 +1,16 @@
+# Ignore all 'build' directories
+**/build/
+
+# Ignore all 'results' directories
+**/data/
+**/results/
+
+**/pytorchenv/
+**/.ipynb_checkpoints/
+
+# (Optional) Also ignore common temporary files
+*.log
+*.tmp
+*.bak
+.swp
+.DS_Store

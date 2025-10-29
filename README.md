@@ -1,6 +1,6 @@
 ## View Benchmark: *Viewpoint Evaluation for SciVis Agent*
 
-![results](https://github.com/sunjianxin/VTK_MFA-DVR/blob/main/doc/teaser.png)
+![results](https://github.com/sunjianxin/view_benchmark/blob/main/doc/teaser.png)
 Demo video can be found <a href="https://youtu.be/FHzvs5nITpw" target="_blank">here</a>.
 
 ### Introduction

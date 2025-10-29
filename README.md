@@ -30,6 +30,6 @@ cmake ..  \
 ```
 *path_to_mfa_include_folder* is the folder location in the project folder in step 2. *path_to_VTK_DVR-MFA_installation_folder* is the installation location when you configure VTK_DVR-MFA before building, and it is normally at */usr/local/include/vtk-9.0* by default.
 
-## To Do
+### To Do
 1. Impliment data-dependent operation through Computer Vision algorithms
 2. Criteria of score
